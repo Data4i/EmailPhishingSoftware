@@ -1,0 +1,6 @@
+.ipynb*
+*.ipynb
+phis_env
+phis_zip
+*.csv
+.csv*
