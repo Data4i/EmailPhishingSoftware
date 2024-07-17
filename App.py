@@ -4,8 +4,6 @@ import pickle
 st.set_page_config(page_title='Email Verifier', layout = 'wide', page_icon=':name_badge:')
 left_col, center_col, right_col = st.columns((1,2,1))
 
-st.sidebar.success("Email Verifier")
-
 model_filepath = 'phising_rf_classifier.pkl'
 
 @st.cache_resource
