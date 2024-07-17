@@ -17,7 +17,7 @@ model = get_model(model_filepath)
 with center_col:
     
     st.title("Email Verifier")
-    st.text("Input Your Email here")
+    st.text("Input Your Email Content Here")
     email = st.text_input(label= 'email',label_visibility="hidden" ,placeholder='Get $20 Free')
     check_email = st.button("Check")
     
