@@ -1,6 +1,6 @@
 .ipynb*
 *.ipynb
 phis_env
-phis_zip
+phis.zip
 *.csv
 .csv*
