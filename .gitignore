@@ -2,3 +2,4 @@ phis_env
 phis.zip
 *.csv
 .csv*
+*.ipynb_checkpoints
